@@ -4,7 +4,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Hamid, Full Stack Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+    <img src="https://user-images.githubusercontent.com/123210267/213812278-5e3b92d9-0b79-45c1-b6e7-b475ca07de5a.png" alt="image">
  </abc>
 </h2> 
 <h2 align="left">Skills :round_pushpin:</h2>
