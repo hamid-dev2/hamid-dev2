@@ -2,7 +2,7 @@
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Hamid, Full Stack Web Developer :computer:<br>
+  <br> I'm Hamid, Back-end Developer :computer:<br>
   <br>
     <img src="https://user-images.githubusercontent.com/123210267/213812278-5e3b92d9-0b79-45c1-b6e7-b475ca07de5a.png" alt="image">
  </abc>
